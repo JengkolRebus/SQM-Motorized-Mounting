@@ -1,9 +1,0 @@
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\bin\Debug\SDLC Version 1.0.exe.config
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\bin\Debug\SDLC Version 1.0.exe
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\bin\Debug\SDLC Version 1.0.pdb
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC Version 1.0.csprojResolveAssemblyReference.cache
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC_Version_1._0.Form1.resources
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC_Version_1._0.Properties.Resources.resources
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC Version 1.0.csproj.GenerateResource.Cache
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC Version 1.0.exe
-D:\Development\Visual Studio\Project\SDLC Version 1.0\SDLC Version 1.0\obj\Debug\SDLC Version 1.0.pdb
